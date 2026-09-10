@@ -4,6 +4,10 @@ title: Introduction to Citation Management Tools
 nav_order: 1
 published: true
 ---
+
+## Note: this workshop is in development and not yet complete.
+
+
 ## ![]({{site.baseurl}}/content/images/citation.png)
 
 Citation management software, also known as reference management software,  bibliographic management software or citation managers, can help you manage and organize your citations and format bibliographies and footnotes in your papers.
