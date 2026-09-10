@@ -4,7 +4,6 @@ license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
 
 title: Introduction to Citation Management
 remote_theme: ubc-library-rc/rc-theme
-footer_content: "<a href=\"https://github.com/ubc-library-rc/intro-citation\">View workshop content in GitHub</a>"
 color_scheme: rc
 github_repo_url: "https://github.com/ubc-library-rc/intro-citation/" 
 
